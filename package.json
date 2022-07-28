@@ -1,0 +1,27 @@
+{
+  "name": "eventschudeler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JyotiPratap/EventSchudeler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JyotiPratap/EventSchudeler/issues"
+  },
+  "homepage": "https://github.com/JyotiPratap/EventSchudeler#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "parser": "^0.1.4"
+  }
+}
